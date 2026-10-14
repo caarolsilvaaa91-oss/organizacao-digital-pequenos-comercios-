@@ -1,3 +1,0 @@
-RELATÓRIO DO MÓDULO 3 — BANCO DE DADOS E CONTROLE DE VERSÃO
-
-O relatório editável em DOCX acompanha este pacote. Antes de entregar, execute o SQL, inclua capturas reais e substitua o link provisório do GitHub pela URL do repositório publicado.
